@@ -1,0 +1,7 @@
+{
+  "name": "ParseAnything - AI Document Processing Dashboard",
+  "description": "A modern, professional AI document-processing dashboard with instant extraction metrics, confidence scores, and interactive review drawers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
